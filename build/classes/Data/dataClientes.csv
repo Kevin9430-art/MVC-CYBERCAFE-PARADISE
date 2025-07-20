@@ -1,0 +1,3 @@
+Cedula;Nombre;Apellido;NumeroMaquina;TiempoUso;EstaActivo;HoraIngreso;HoraSalida
+0102030405;Juan;Perez;1;30 minutos;true;09:00;09:30
+0203040506;Maria;Lopez;2;1 hora;false;10:00;11:00
